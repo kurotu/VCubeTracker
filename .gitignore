@@ -1,0 +1,4 @@
+build/
+*.TMP
+vendor/winsdk6.1/qedit.h
+dist/
