@@ -9,7 +9,7 @@
 
 ## Get qedit.h
 
-1. Download Microsoft Windows Software Development Kit Update for Windows Vista (6.1.6000.16384.10.WindowsSDK_Vista_Feb2007Update_rtm.DVD.Rel.iso) from https://www.microsoft.com/en-us/download/details.aspx?id=14477
+1. Download *Microsoft Windows Software Development Kit Update for Windows Vista* (6.1.6000.16384.10.WindowsSDK_Vista_Feb2007Update_rtm.DVD.Rel.iso) from https://www.microsoft.com/en-us/download/details.aspx?id=14477
 
 2. Open `Setup\WinSDKBuild-SDK_DirectShow_BLD_Common-common.0.cab` from the iso file.
 
@@ -17,13 +17,13 @@
 
 ## Set up the Project
 
-1. Locate `qedit.h` into `vendor\winsdk6.1` folder.
-
-2. Open *Git Bash* then clone this repository.
+1. Open *Git Bash* then clone this repository.
 
     ```shell
     git clone https://github.com/kurotu/VCubeTracker.git
     ```
+
+2. Locate `qedit.h` into `vendor\winsdk6.1` folder.
 
 3. Then execute `bootstrap.sh`.
 

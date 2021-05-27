@@ -24,7 +24,7 @@ See [docs/Setup.md](docs/Setup.md).
 
 1. Attach cubes to your body: Cube 0 to left leg, Cube 1 to right leg, Cube 0 to waist.
 
-2. Execute `vcube_tracker.exe` with following options. After launching the program, SteamVR will automatically start.
+2. Execute `vcube_tracker.exe`. After launching the program, SteamVR will automatically start.
 
 3. Stand in front of your webcam and look straight ahead.
 
